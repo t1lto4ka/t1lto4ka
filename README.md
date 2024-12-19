@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Moya persha storinka</title>
 </head>
-  <h1>Моя перша сторінка</h1>
+  <h1>Моя перша сторінкa</h1>
 <body>
 	
 </body>
